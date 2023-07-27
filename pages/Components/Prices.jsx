@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "next/link";
-import { AiOutlineClockCircle } from "react-icons/ai";
-import { BiRevision } from "react-icons/bi";
-import { AiFillCheckCircle } from "react-icons/ai";
+import { AiOutlineClockCircle } from "../website-portfolio/node_modules/react-icons/ai";
+import { BiRevision } from "../website-portfolio/node_modules/react-icons/bi";
+import { AiFillCheckCircle } from "../website-portfolio/node_modules/react-icons/ai";
 
 const Prices = () => {
   return (
