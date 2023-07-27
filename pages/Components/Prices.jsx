@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "next/link";
-import { AiOutlineClockCircle } from "../website-portfolio/node_modules/react-icons/ai";
-import { BiRevision } from "../website-portfolio/node_modules/react-icons/bi";
-import { AiFillCheckCircle } from "../website-portfolio/node_modules/react-icons/ai";
+import { AiOutlineClockCircle } from "react-icons/ai";
+import { BiRevision } from "react-icons/bi";
+import { AiFillCheckCircle } from "react-icons/ai";
 
 const Prices = () => {
   return (
@@ -12,7 +12,7 @@ const Prices = () => {
           <div className="flex flex-col gap-6">
             <h1 className="text-2xl font-bold">Basic</h1>
             <h1 className="text-3xl font-extrabold">€76</h1>
-            <h2 classname="font-bold">1 PAGE website with up to 5 sections</h2>
+            <h2 classNsame="font-bold">1 PAGE website with up to 5 sections</h2>
             <div className="flex flex-col gap-1">
               <h1 className="inline-block">
                 <AiFillCheckCircle className="inline-block text-white" />1 page
