@@ -36,8 +36,7 @@ const Prices = () => {
             </div>
             <div className="flex justify-between">
               <h2 className="inline-block font-bold">
-                <AiOutlineClockCircle className="inline-block" /> 3 Days
-                Delivery
+                <AiOutlineClockCircle className="inline-block" /> 1 Day Delivery
               </h2>
               <h2 className="inline-block text-center font-bold">
                 <BiRevision className="inline-block" />
@@ -46,7 +45,10 @@ const Prices = () => {
             </div>
           </div>
         </div>
-        <Link href="#">
+        <Link
+          href="https://www.fiverr.com/l_cosmin/convert-figma-psd-sketch-design-to-fully-responsive-react-website"
+          target="_blank"
+        >
           <h1 className="text-white text-lg font-semibold bg-[#deb86f] rounded-3xl px-6 py-2 text-center mt-6 hover:cursor-pointer hover:text-[#deb86f] hover:bg-white">
             Order
           </h1>
@@ -57,7 +59,7 @@ const Prices = () => {
         <div className="text-[#292929]">
           <div className="flex flex-col gap-6">
             <h1 className="text-2xl font-bold">Standard</h1>
-            <h1 className="text-3xl font-extrabold">€85</h1>
+            <h1 className="text-3xl font-extrabold">€86</h1>
             <h2 className="font-bold">
               Up to 3 PAGES website with up to 5 sections each
             </h2>
@@ -85,7 +87,7 @@ const Prices = () => {
             </div>
             <div className="flex justify-between">
               <h2 className="inline-block font-bold">
-                <AiOutlineClockCircle className="inline-block" /> 5 Days
+                <AiOutlineClockCircle className="inline-block" /> 2 Days
                 Delivery
               </h2>
               <h2 className="inline-block text-center font-bold">
@@ -95,7 +97,10 @@ const Prices = () => {
             </div>
           </div>
         </div>
-        <Link href="#">
+        <Link
+          href="https://www.fiverr.com/l_cosmin/convert-figma-psd-sketch-design-to-fully-responsive-react-website"
+          target="_blank"
+        >
           <h1
             className="text-white text-lg font-semibold bg-[#292929] rounded-3xl px-6 py-2 text-center mt-6
           hover:cursor-pointer hover:bg-white hover:text-[#292929]"
@@ -136,7 +141,7 @@ const Prices = () => {
             </div>
             <div className="flex justify-between">
               <h2 className="inline-block font-bold">
-                <AiOutlineClockCircle className="inline-block" /> 7 Days
+                <AiOutlineClockCircle className="inline-block" /> 3 Days
                 Delivery
               </h2>
               <h2 className="inline-block text-center font-bold">
@@ -146,7 +151,10 @@ const Prices = () => {
             </div>
           </div>
         </div>
-        <Link href="#">
+        <Link
+          href="https://www.fiverr.com/l_cosmin/convert-figma-psd-sketch-design-to-fully-responsive-react-website"
+          target="_blank"
+        >
           <h1 className="text-white text-lg font-semibold bg-[#deb86f] rounded-3xl px-6 py-2 text-center mt-6 hover:cursor-pointer hover:text-[#deb86f] hover:bg-white">
             Order
           </h1>

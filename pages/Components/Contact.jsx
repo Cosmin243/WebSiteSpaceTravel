@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const Contact = () => {
   return (
@@ -7,12 +8,17 @@ const Contact = () => {
         Interested <br /> working <br />
         with me?
       </h1>
-      <h1
-        className="text-white text-xl bg-[#292929] px-6 py-2 rounded-3xl hover:cursor-pointer
-      hover:text-[#292929] hover:bg-white"
+      <Link
+        href="https://www.fiverr.com/l_cosmin/convert-figma-psd-sketch-design-to-fully-responsive-react-website"
+        target="_blank"
       >
-        Hire Me
-      </h1>
+        <h1
+          className="text-white text-xl bg-[#292929] px-6 py-2 rounded-3xl hover:cursor-pointer
+      hover:text-[#292929] hover:bg-white"
+        >
+          Hire Me
+        </h1>
+      </Link>
     </div>
   );
 };

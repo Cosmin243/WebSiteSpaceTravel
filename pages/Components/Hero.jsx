@@ -24,7 +24,8 @@ const Hero = () => {
         </p>
         <div className="mt-6">
           <Link
-            href="#"
+            href="https://www.fiverr.com/l_cosmin/convert-figma-psd-sketch-design-to-fully-responsive-react-website"
+            target="_blank"
             className="text-white text-lg font-semibold bg-[#deb86f] rounded-xl px-6 py-2 hover:cursor-pointer
             hover:bg-white hover:text-[#deb86f]"
           >
