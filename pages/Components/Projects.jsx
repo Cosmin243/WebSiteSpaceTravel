@@ -27,7 +27,7 @@ const Projects = () => {
               </p>
             </div>
             <Link
-              href="#"
+              href="https://easybankproject.vercel.app/"
               className="text-white text-lg font-semibold bg-[#696762] rounded-xl px-6 py-2 hover:cursor-pointer
               hover:bg-white hover:text-[#696762]"
             >
@@ -51,7 +51,7 @@ const Projects = () => {
               </p>
             </div>
             <Link
-              href="#"
+              href="https://project-space-project.vercel.app/"
               className="text-white text-lg font-semibold bg-[#696762] rounded-xl px-6 py-2 hover:cursor-pointer
               hover:bg-white hover:text-[#696762]"
             >
