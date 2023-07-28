@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import CosminImagine from "https://main--cosminleonte.netlify.app/pages/Components/WhatsApp Image 2023-04-11 at 19.20.40.jpeg";
+import CosminImagine from "WhatsApp Image 2023-04-11 at 19.20.40.jpeg";
 import Link from "next/link";
 
 const Hero = () => {

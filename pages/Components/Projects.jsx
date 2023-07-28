@@ -1,8 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import SpaceTourism from "https://main--cosminleonte.netlify.app/pages/Components/Desktop - Home.jpg";
-import EasyBank from "https://main--cosminleonte.netlify.app/pages/Components/Screenshot 2023-05-05 003415.png";
+import SpaceTourism from "Desktop - Home.jpg";
+import EasyBank from "Screenshot 2023-05-05 003415.png";
 
 const Projects = () => {
   return (
